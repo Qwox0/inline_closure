@@ -1,6 +1,6 @@
 # `inline_closure!` macro
 
-[![Github](https://img.shields.io/badge/github-Qwox0/inline__closure-blue?style=flat&logo=github)](https://github.com/Qwox0/simple_proc_macro_error)
+[![Github](https://img.shields.io/badge/github-Qwox0/inline__closure-blue?style=flat&logo=github)](https://github.com/Qwox0/inline_closure)
 
 A Rust macro that inlines closures. This may slightly improve performance and is especially useful in other macros:
 
