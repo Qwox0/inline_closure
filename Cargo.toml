@@ -1,0 +1,10 @@
+[package]
+name = "inline_closure"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+simple_proc_macro_error = { git = "https://github.com/Qwox0/simple_proc_macro_error" }
